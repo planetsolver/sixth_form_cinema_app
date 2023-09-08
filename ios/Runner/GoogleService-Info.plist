@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>666434313474-r5vl12a4sdhg8cfiqm0252kth5aqrltp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.666434313474-r5vl12a4sdhg8cfiqm0252kth5aqrltp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBYZnExhfspjHYvBCXTKbkBpR9hE9FHEFI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>666434313474</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.joshualvarez.sixthFormCinemaApp</string>
+	<key>PROJECT_ID</key>
+	<string>sixth-form-theatre</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sixth-form-theatre.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:666434313474:ios:94520ee0440e56cef4361b</string>
+</dict>
+</plist>
